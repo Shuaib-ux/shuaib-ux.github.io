@@ -7,7 +7,7 @@
 [![Follow on GitHub](https://img.shields.io/github/followers/Shuaib-ux?label=Follow&style=social)](https://github.com/Shuaib-ux)
 
 - 🔭 I’m currently working on [WAY Services Ltd](https://yourwayapp.com/)
-- 🌱 I’m currently learning **everything**
+- 🌱 I’m currently learning **GSAP animations**
 - 👯 I’m looking to collaborate on **bizarre ideas**
 - 📫 How to reach me **Shuaibakoh6@gmail.com**
 - ⚡ Fun fact **I love travelling and learning people cultures**
