@@ -29,9 +29,11 @@
 ![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 
+
+
 ## GitHub Stats
-![Shuaib's GitHub stats](https://github-readme-stats.vercel.app/api?username=Shuaib-ux&show_icons=true&theme=radical&count_private=true&hide=contribs,issues&token=${{ secrets.GH_TOKEN }})
+![Shuaib's GitHub stats](https://github-readme-stats.vercel.app/api?username=Shuaib-ux&show_icons=true&theme=radical&count_private=true&hide=contribs,issues&token=${{secrets.GH_TOKEN}})
 
 ## Top Languages
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Shuaib-ux&layout=compact&theme=radical&langs_count=8&hide=python&count_private=true&token=${{ secrets.GH_TOKEN }})
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Shuaib-ux&layout=compact&theme=radical&langs_count=8&hide=python&count_private=true&token=${{secrets.GH_TOKEN}})
 
