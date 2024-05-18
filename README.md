@@ -18,7 +18,7 @@
 [![GitHub](https://img.shields.io/badge/GitHub-181717?logo=github&logoColor=white)](https://github.com/Shuaib-ux)
 
 ## Download My CV
-[Click here to download my CV](https://github.com/Shuaib-ux/portfolio/raw/main/Shuaib_CV.pdf)
+[Click here to download my CV](https://github.com/Shuaib-ux/shuaib-ux.github.io/blob/main/Shuaib_CV.pdf)
 
 ## Languages and Tools:
 ![JavaScript](https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E)
