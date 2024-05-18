@@ -17,6 +17,9 @@
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?logo=linkedin&logoColor=white)](https://linkedin.com/in/shuaib-i-ab882bb6)
 [![GitHub](https://img.shields.io/badge/GitHub-181717?logo=github&logoColor=white)](https://github.com/Shuaib-ux)
 
+## Download My CV
+[Click here to download my CV](https://github.com/Shuaib-ux/portfolio/raw/main/Shuaib_CV.pdf)
+
 ## Languages and Tools:
 ![JavaScript](https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E)
 ![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)
@@ -37,3 +40,5 @@
 ## Top Languages
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Shuaib-ux&layout=compact&theme=radical&langs_count=8&hide=python&count_private=true&token=${{secrets.GH_TOKEN}})
 
+## GitHub Streak
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Shuaib-ux&theme=radical)
