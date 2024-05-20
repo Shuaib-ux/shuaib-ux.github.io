@@ -18,7 +18,7 @@ jobs:
           curl -o README.md https://raw.githubusercontent.com/Shuaib-ux/portfolio/main/README.md
       - name: Commit changes
         env:
-          GITHUB_TOKEN: ${{ secrets.GH_TOKEN }}
+          GITHUB_TOKEN: ${{secrets.GH_TOKEN}}
         run: |
           git config --global user.name 'shuaib-ux'
           git config --global user.email 'shuaibakoh6@gmail.com'
