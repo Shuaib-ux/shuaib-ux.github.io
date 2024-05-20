@@ -17,8 +17,8 @@ jobs:
           curl -o README.md https://raw.githubusercontent.com/Shuaib-ux/portfolio/main/README.md
       - name: Commit changes
         run: |
-          git config --global user.name 'github-actions'
-          git config --global user.email 'github-actions@github.com'
+          git config --global user.name 'shuaib-ux'
+          git config --global user.email 'shuaibakoh6@gmail.com'
           git add README.md
           git commit -m 'Updated README'
           git push
