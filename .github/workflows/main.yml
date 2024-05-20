@@ -2,7 +2,7 @@ name: Update README
 
 on:
   schedule:
-    - cron: '0 0 * * *'
+    - cron: '0 6 * * *'
   push:
     branches:
       - main
@@ -10,18 +10,15 @@ on:
 jobs:
   update-readme:
     runs-on: ubuntu-latest
-
     steps:
       - uses: actions/checkout@v2
       - name: Update README
         run: |
           curl -o README.md https://raw.githubusercontent.com/Shuaib-ux/portfolio/main/README.md
       - name: Commit changes
-        env:
-          GITHUB_TOKEN: ${{secrets.GH_TOKEN}}
         run: |
-          git config --global user.name 'shuaib-ux'
-          git config --global user.email 'shuaibakoh6@gmail.com'
+          git config --global user.name 'github-actions'
+          git config --global user.email 'github-actions@github.com'
           git add README.md
           git commit -m 'Updated README'
-          git push https://${{ secrets.GH_TOKEN }}@github.com/Shuaib-ux/shuaib-ux.github.io.git
+          git push
