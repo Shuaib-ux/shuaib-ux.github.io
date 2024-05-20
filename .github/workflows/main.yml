@@ -11,9 +11,9 @@ jobs:
   update-readme:
     runs-on: ubuntu-latest
     steps:
-      - uses: actions/checkout@v2
+      - uses: actions/checkout@v3
       - name: Update README
-        run: |
+        run: echo "Triggered by ${{ GH_TOKEN }}"
           curl -o README.md https://raw.githubusercontent.com/Shuaib-ux/portfolio/main/README.md
       - name: Commit changes
         run: |
