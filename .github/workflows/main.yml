@@ -26,4 +26,4 @@ jobs:
           git branch -u origin/main
           git commit -m 'Updated README'
           git push https://${{ secrets.GH_TOKEN }}@github.com/Shuaib-ux/shuaib-ux.github.io.git
-          git push
+          git push -f origin main
