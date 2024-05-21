@@ -23,6 +23,7 @@ jobs:
           git config --global user.email 'shuaibakoh6@gmail.com'
         
           git add README.md
+          git branch -u origin/master
           git commit -m 'Updated README'
           git push https://${{ secrets.GH_TOKEN }}@github.com/Shuaib-ux/shuaib-ux.github.io.git
           git push
